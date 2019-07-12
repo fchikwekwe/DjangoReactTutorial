@@ -1,0 +1,1 @@
+Just learning how to connect a react front end to a django application. 
